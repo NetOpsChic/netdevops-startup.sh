@@ -40,20 +40,20 @@ This script automates the installation of essential tools and frameworks for **N
 ## 🔧 Installation
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/netdevopschic/netdevops-setup.git
-cd netdevops-setup
+git clone https://github.com/NetOpsChic/netdevops-startup.sh.git
+cd netdevops-startup.sh
 ```
 
 ### **2️⃣ Run the Script**
 ```sh
 chmod +x netdevops_setup.sh
-./netdevops_setup.sh
+./netdevops-setup.sh
 ```
 
 ### **3️⃣ Verify Installations**
 After installation, run:
 ```sh
-./test_installations.sh
+./test-setup.sh
 ```
 This will check if all tools are installed correctly.
 
